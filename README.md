@@ -34,6 +34,7 @@
 <img width="617" alt="Screenshot 2024-10-10 at 12 12 33 AM" src="https://github.com/user-attachments/assets/11ccc517-73a2-4b75-90bc-831fb19fcc51">
 
 
+Assignment of Applied AI
 
 
 
