@@ -1,4 +1,4 @@
-- Project Title: Exploratory Data Analysis on the Haberman Dataset
+<h1>Project Title: Exploratory Data Analysis on the Haberman Dataset</h1>h1>
 - Project Overview: This project involves conducting an in-depth exploratory data analysis (EDA) on the Haberman dataset, which contains data on the survival of patients who underwent breast cancer surgery.
 - Below are the EDA Techniques used in this project: 
 
